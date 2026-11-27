@@ -1,10 +1,10 @@
-# Privacy Policy — ArchiTab
+# Privacy Policy — Mac Tab Launcher
 
 Effective date: November 26, 2026
 
 ## Overview
 
-ArchiTab is a Chrome extension designed to provide a visual interface for managing open browser tabs.
+Mac Tab Launcher is a Chrome extension designed to provide a visual interface for managing open browser tabs.
 
 ## Data Access and Usage
 
@@ -20,7 +20,7 @@ This information is processed locally within the user's browser.
 
 ## Data Storage
 
-ArchiTab does not maintain a browsing history database or transmit tab information to a developer-operated backend. Local browser storage may be used to retain appearance preferences and recent tab IDs for shortcut functionality. Whiteboard drawings and embedded images are stored locally in the browser.
+Mac Tab Launcher does not maintain a browsing history database or transmit tab information to a developer-operated backend. Local browser storage may be used to retain appearance preferences and recent tab IDs for shortcut functionality. Whiteboard drawings and embedded images are stored locally in the browser.
 
 ## External Resources
 
@@ -28,7 +28,7 @@ The extension may retrieve website favicon images from external websites to disp
 
 ## Data Sharing
 
-ArchiTab does not sell user data, use it for advertising, or share it with data brokers.
+Mac Tab Launcher does not sell user data, use it for advertising, or share it with data brokers.
 
 ## Analytics and Tracking
 
